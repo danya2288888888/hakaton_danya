@@ -1,0 +1,161 @@
+body{
+    margin: 0px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifs;
+}
+
+.navigation{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    background-color:#434344;
+    height: 50px;
+    align-items: center;
+    margin-bottom: 0px;
+}
+
+.navigation a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-decoration: none;
+    color: rgb(187, 187, 187);
+    transition: color 0.3s ease;
+    
+}
+.navigation a:hover{
+    color: white;
+}
+.Mac{
+    margin-top: 50px;
+    width: 1000px;
+    background-color: #1c1c20;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Mac .left{
+    float: left;
+    font-size: 40px;
+    
+}
+.Mac .right{
+    float: right;
+    margin-top: 40px;
+}
+.Mac img{
+    margin-top: 100px;
+}
+.tablemac{
+    display: flex;
+    justify-content: center;
+}
+.mactable{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mactable td {
+    width: 300px;
+    padding-top: 15px;
+}
+
+
+
+.second{
+    background-color:rgb(255, 255, 255) ;
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.second_article{
+
+    font-size: 30px;
+    width: 150px;
+    text-align: center;
+}
+
+.small{
+    font-size: 16px;
+    text-align: justify;
+    text-align: center;
+}
+
+.second img{
+    width: 150px;
+    text-align: center;
+}
+
+
+.third{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.text{
+    margin-top: 120px;
+}
+
+.Mac{
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+.ПознайомтесязMac{
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(247, 247, 247);
+    color: rgb(0, 0, 0);
+    margin-top: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.ПознайомтесязMac p{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.WATCHSERIES9{
+    font-size: 20px;
+    text-align: center;
+    background-color:rgb(0, 0, 0); ;
+    color:rgb(255, 255, 255);; 
+}
+
+.watchultra2{
+    font-size: 20px;
+    text-align: center;
+    background-color:rgb(255, 255, 255); ;
+    color:rgb(0, 0, 0);; 
+}
+
+.watchse{
+    font-size: 20px;
+    text-align: center;
+    background-color:rgb(255, 255, 255); ;
+    color:rgb(0, 0, 0);; 
+}
+.Ipadh2{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 150px;
+}
+.iPhone23{
+    text-align: center;
+    margin-bottom: 150px;
+}
+.iPhone23{
+    font-size: 30px;
+}
+.carbonneutral{
+    text-align: center;
+}
